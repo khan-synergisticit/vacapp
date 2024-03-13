@@ -1,0 +1,6 @@
+[submodule "vac-frontend"]
+	path = vac-frontend
+	url = https://github.com/khan-synergisticit/vac-frontend.git
+[submodule "vac-backend"]
+	path = vac-backend
+	url = https://github.com/khan-synergisticit/vac-backend.git
