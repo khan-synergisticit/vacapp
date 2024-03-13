@@ -83,6 +83,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+In this repo, I will try to demonstrate how to develope a full-stack app hosted on AWS. There are certainly more efficient method for full-stack developement such as deploying MERN, but the goal here is to incorporate all the components of Synergistic IT's sessions on one platform. 
+
+[Java Spring -> MongoDB Atlas -> NodeJS/Express/React ] -> AWS. 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
